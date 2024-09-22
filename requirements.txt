@@ -6,3 +6,4 @@ psycopg2-binary
 GDAL
 ipykernel
 mermaid
+contextily
